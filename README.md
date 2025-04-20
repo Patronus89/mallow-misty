@@ -16,14 +16,11 @@ I'm a builder, explorer, and tech enthusiast passionate about AI, cloud, and cre
 ## 🗓️ My Goal
 Green boxes every day in 2025 🌱
 
-## 🏅 Google Cloud Skill Badges
+## 🏅 Google Cloud Skill Boost Badges
 
-I’ve earned the following official badges from Google Cloud Skills Boost:
+Here are some of the Google Cloud credentials I've earned through hands-on learning:
 
-| Badge | Link |
-|-------|------|
-| Build with AI: Vertex AI | [View Badge](https://www.cloudskillsboost.google/public_profiles/your-id/badges/xxxx) |
-| Generative AI Fundamentals | [View Badge](https://www.cloudskillsboost.google/public_profiles/your-id/badges/yyyy) |
+[![Vertex AI Badge](https://img.shields.io/badge/Badge-Build%20with%20AI%20Vertex%20AI-blue?logo=googlecloud)](https://www.cloudskillsboost.google/public_profiles/0530b4e7-5c66-4297-a8a2-67e1a8fd7764/badges/5418897)
 
-🔗 [View All My Badges](https://www.cloudskillsboost.google/public_profiles/your-id)
+[![Gemini and GenAI Badge](https://img.shields.io/badge/Badge-Generative%20AI%20Fundamentals-purple?logo=googlecloud)](https://www.cloudskillsboost.google/public_profiles/0530b4e7-5c66-4297-a8a2-67e1a8fd7764/badges/5337686_
 
