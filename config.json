@@ -1,0 +1,9 @@
+{
+  "ocr_confidence_threshold": 60,
+  "use_openai_fallback": false,
+  "openai_api_key": "",
+  "tesseract_config": "--oem 3 --psm 6",
+  "supported_currencies": ["USD", "$", "EUR", "€", "GBP", "£"],
+  "date_formats": ["%m/%d/%Y", "%d/%m/%Y", "%Y-%m-%d", "%B %d, %Y"],
+  "vendor_blacklist": ["COPY", "DUPLICATE", "VOID"]
+}
